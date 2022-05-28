@@ -1,1 +1,1 @@
-# Hoiuk_JavaScript
+Что бы запустить данную программу используйте консоль DevTools Google Chrome.
